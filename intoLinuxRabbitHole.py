@@ -19,5 +19,4 @@ while True:
         break
 
     i += 1
-    
 r.interactive()
